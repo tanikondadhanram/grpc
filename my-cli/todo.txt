@@ -1,0 +1,5 @@
+dec 11th
+1.Take arguments from query function and execute them
+2.Follow sqlite syntax for CREATE,INSERT,SELECT statements
+3.Test multiple lua files from cli
+4.Implement the error logic
